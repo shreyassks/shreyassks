@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Shreyas S K</h1>
-<h3 align="center">print("👩‍🎓 Master's degree from Indian Institute of Technology, Guwahati")</h3>
+<h3 align="center">print("👨🏻‍🎓 Master's degree from Indian Institute of Technology, Guwahati")</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyassks&label=Profile%20views&color=0e75b6&style=flat" alt="shreyassks" /> </p>
 
-- 👨‍💻 All about me is at [My Website](https://shreyassks.github.io/)
+- 👨🏻 All about me is at [My Website](https://shreyassks.github.io/)
 
 - 💬 Ask me about ``` var topics = ["Python", "Deep Learning", "Machine Learning", "Natural Language Processing", "Reinforcement Learning"] ```
 
