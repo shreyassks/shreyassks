@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **skshreyas714@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1wvN8nwxxOx_hwgALRSaeBT9M0v9FXUh4/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/14RSIUVNOG1bqjYjvyqUkg9UR42tUiGiK/view?usp=sharing)
 
 - Publication on [Application of Machine Learning Techniques in Underground Excavations](https://link.springer.com/article/10.1007/s41062-019-0234-z)
 
