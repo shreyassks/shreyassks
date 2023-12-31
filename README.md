@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - Publication on [Diagnostic Decision Support for Medical Image Classification using ARM Mali GPU](https://ieeexplore.ieee.org/document/9682104)
 
-### What are my featured projects:question::rocket:
+### What are my featured projects:
 <code>[Content Genie](https://github.com/shreyassks/Content-Genie-AI-Image-Editor)</code>
 <code>[Stylish Image Captioner](https://github.com/shreyassks/Stylised-Image-Captions-with-RL-PPO)</code>
 <code>[Toxic Comment Classification](https://github.com/shreyassks/Toxic-Comment-Classification)</code>
