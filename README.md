@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - 👨🏻 All about me is at [My Website](https://shreyassks.github.io/)
 
-- 💬 Ask me about ``` var topics = ["Python", "Deep Learning", "Machine Learning", "Natural Language Processing", "Reinforcement Learning"] ```
+- 💬 Ask me about ``` var topics = ["Generative AI", "Context Engineering", "Agentic AI", "Natural Language Processing", "Reinforcement Learning", "MultiModal RAG"] ```
 
 - 📫 How to reach me **skshreyas714@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/14RSIUVNOG1bqjYjvyqUkg9UR42tUiGiK/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1OxPNL7tK7I7XP1U1WvBdZExvewpZAv2j/view?usp=drive_link)
 
 - Publication on [Application of Machine Learning Techniques in Underground Excavations](https://link.springer.com/article/10.1007/s41062-019-0234-z)
 
